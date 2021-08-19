@@ -10,17 +10,17 @@
 > 2. Web Development (both front-end and back-end)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
 - 🌱 I’m currently working on
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
 > 1. Making a conversational AI app 인격 복제 챗봇 <br>
 > 2. Video Editing app that uses AI to edit clips 인공지능 영상편집기
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
+
 
 - 💞️ I’m currently looking to collaborate on:
 > 1. Software Captsone Design Course-2 2021-2학기 소프트웨어종합설계 
 > 2. Personal Projects/Youtube videos
-- 📫 How to reach me
-> Email: <a href="mailto:sanz1475@yonsei.ac.kr">sanz1475@yonsei.ac.kr</a>
+> 
 </br> </br>
-## - 🧠 I Know / Use
+## 🧠 I Know / Use
 ### Programming Languages:
 
 <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /><img src="http://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
@@ -38,6 +38,7 @@
 ## - 📫 How to reach me
 
 You can e-mail me directly, and you can use either English or Korean with me :)
+> Email: <a href="mailto:sanz1475@yonsei.ac.kr">sanz1475@yonsei.ac.kr</a>
 
 <!---
 sanz1475/sanz1475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

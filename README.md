@@ -4,20 +4,23 @@
 </div>
 
 - 👋 Welcome to my GitHub profile.
-> I am an international student studying in Seoul, South Korea - currently finishing my Bachelor's in Computer Science at Yonsei University (연세대학교) 
+> I am an international student studying in Seoul, South Korea - currently finishing my Bachelor's in Computer Science at Yonsei University (연세대학교)
+> I expect to graduate in 2022 February and I'm preparing for the job market in Korea.
 - 👀 I’m interested in
-> 1. Data Science (Machine learning)
-> 2. Web Development (both front-end and back-end)
+> 1. Web Development (mostly fron-end - UI/UX but I'm interested in back-end too)
+> 2. Data Science (Machine learning)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
+
 - 🌱 I’m currently working on
 <img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
-> 1. Making a conversational AI app 인격 복제 챗봇 <br>
-> 2. Video Editing app that uses AI to edit clips 인공지능 영상편집기
+> 1. Creating my portfolio website
+> 2. Making a conversational AI app 인격 복제 챗봇 <br>
+
 
 
 - 💞️ I’m currently looking to collaborate on:
-> 1. Software Captsone Design Course-2 2021-2학기 소프트웨어종합설계 
-> 2. Personal Projects/Youtube videos
+> 1. 연세 창업 서포터즈 2
+> 2. Personal Projects / YouTube videos
 > 
 </br> </br>
 ## 🧠 I Know / Use
@@ -32,7 +35,8 @@
 
 ## - 💬 Ask me about
 
-- Machine learning app-making and deployment using React, NodeJS
+- Design(UI/UX), Machine learning app-making and deployment.
+- I have so many ideas but not enough time to it all - would love to have collaborators
 - I love making new friends, so feel free to just chat!
 
 ## - 📫 How to reach me

@@ -35,9 +35,9 @@
 
 ## - 💬 Ask me about
 
-- Design(UI/UX), Machine learning app-making and deployment.
-- I have so many ideas but not enough time to it all - would love to have collaborators
-- I love making new friends, so feel free to just chat!
+-  Programming basics
+-  Design(UI/UX), machine learning app-making and deployment.
+-  I love making new friends, so feel free to just chat!
 
 ## - 📫 How to reach me
 

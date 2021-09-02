@@ -11,18 +11,21 @@
 > 2. Data Science Projects(Machine learning)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
 
+<img width="40%" height="50%" display="flex-wrap" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
 
-
-- 🌱 I’m currently working on
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
+<div align="left">
+  
+- 🌱 I’m currently working on:
+  
 1. 4th year 2nd semester classes (<b>Compiler Design, Software Capstone Design</b>, 
   Applied Data Analysis using R, Intro to Human Rights & Policies)
 2. Creating my portfolio website
 3. Making a conversational AI app 인격 복제 챗봇 
-  <br>
 
 - 💞️ I’m currently looking to collaborate on:
-> 1. Personal Projects / YouTube videos
+  
+1. Personal Projects / YouTube videos
+</div>
 
 </br> </br>
 

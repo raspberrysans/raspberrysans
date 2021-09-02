@@ -8,7 +8,7 @@
 > I expect to graduate in 2022 February and I'm preparing for the job market in Korea.
 
 <b>👀 I’m interested in:</b>
-> 1. Web Development Projects (mostly fron-end - UI/UX)
+> 1. Web Development Projects (mostly front-end - UI/UX)
 > 2. Data Science Projects(Machine learning)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
 

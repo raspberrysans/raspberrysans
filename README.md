@@ -11,17 +11,21 @@
 > 2. Data Science (Machine learning)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
 > 
-<img width="40%" content-align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
-
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
+<div text-align="right">
+  
 - 🌱 I’m currently working on
+  
 > 1. Creating my portfolio website
 > 2. Making a conversational AI app 인격 복제 챗봇 <br>
 
 - 💞️ I’m currently looking to collaborate on:
 -  Personal Projects / YouTube videos
-> 
+</div>
 </br> </br>
+
 ## 🧠 I Know / Use
+
 ### Programming Languages:
 
 <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /><img src="http://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />

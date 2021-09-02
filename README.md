@@ -10,7 +10,7 @@
 > 1. Web Development Projects (mostly fron-end - UI/UX but I'm interested in back-end too)
 > 2. Data Science Projects(Machine learning)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
-
+<br>
 <img width="40%" height="50%" display="flex-wrap" align="right" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
 
 <div align="left">

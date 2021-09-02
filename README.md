@@ -1,30 +1,28 @@
-<img align="left" alt="img" src="http://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif" width="50%" height="auto" />
+<img align="left" alt="img" src="http://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif" width="40%" height="auto" />
 <div align="left">
 <h1> 안녕하세요! I am Sans(산스) Bhatia </h1>
 </div>
 
-- 👋 Welcome to my GitHub profile.
+<b>👋 Welcome to my GitHub profile.</b>
 > I am an international student studying in Seoul, South Korea - currently finishing my Bachelor's in Computer Science at Yonsei University (연세대학교)
 > I expect to graduate in 2022 February and I'm preparing for the job market in Korea.
-- 👀 I’m interested in
+
+<b>👀 I’m interested in:</b>
 > 1. Web Development Projects (mostly fron-end - UI/UX)
 > 2. Data Science Projects(Machine learning)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
 
-<img width="50%" height="60%" display="flex-wrap" align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
+<img width="40%" height="60%" display="flex-wrap" align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
 
 <div align="left">
   
-- 🌱 I’m currently working on:
+<b>🌱 I’m currently working on:</b>
   
 1. 4th year 2nd semester classes (<b>Compiler Design, Software Capstone Design</b>, 
   Applied Data Analysis using R, Intro to Human Rights & Policies)
 2. Creating my portfolio website
 3. Making a conversational AI app 인격 복제 챗봇 
 
-- 💞️ I’m currently looking to collaborate on:
-  
-1. Personal Projects / YouTube videos
 </div>
 
 </br> </br>

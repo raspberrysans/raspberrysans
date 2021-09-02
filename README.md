@@ -11,13 +11,11 @@
 > 2. Data Science (Machine learning)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
 > 
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
+<img width="40%" content-align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
 
 - 🌱 I’m currently working on
 > 1. Creating my portfolio website
 > 2. Making a conversational AI app 인격 복제 챗봇 <br>
-
-
 
 - 💞️ I’m currently looking to collaborate on:
 -  Personal Projects / YouTube videos

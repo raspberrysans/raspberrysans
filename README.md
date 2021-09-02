@@ -7,21 +7,23 @@
 > I am an international student studying in Seoul, South Korea - currently finishing my Bachelor's in Computer Science at Yonsei University (연세대학교)
 > I expect to graduate in 2022 February and I'm preparing for the job market in Korea.
 - 👀 I’m interested in
-> 1. Web Development (mostly fron-end - UI/UX but I'm interested in back-end too)
-> 2. Data Science (Machine learning)
+> 1. Web Development Projects (mostly fron-end - UI/UX but I'm interested in back-end too)
+> 2. Data Science Projects(Machine learning)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
-> 
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
-<div text-align="right">
-  
+
+
+
 - 🌱 I’m currently working on
-  
-> 1. Creating my portfolio website
-> 2. Making a conversational AI app 인격 복제 챗봇 <br>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
+1. 4th year 2nd semester classes (<b>Compiler Design, Software Capstone Design</b>, 
+  Applied Data Analysis using R, Intro to Human Rights & Policies)
+2. Creating my portfolio website
+3. Making a conversational AI app 인격 복제 챗봇 
+  <br>
 
 - 💞️ I’m currently looking to collaborate on:
--  Personal Projects / YouTube videos
-</div>
+> 1. Personal Projects / YouTube videos
+
 </br> </br>
 
 ## 🧠 I Know / Use

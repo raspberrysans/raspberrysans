@@ -10,17 +10,16 @@
 > 1. Web Development (mostly fron-end - UI/UX but I'm interested in back-end too)
 > 2. Data Science (Machine learning)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
 
 - 🌱 I’m currently working on
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
 > 1. Creating my portfolio website
 > 2. Making a conversational AI app 인격 복제 챗봇 <br>
 
 
 
 - 💞️ I’m currently looking to collaborate on:
-> 1. 연세 창업 서포터즈 2
-> 2. Personal Projects / YouTube videos
+-  Personal Projects / YouTube videos
 > 
 </br> </br>
 ## 🧠 I Know / Use

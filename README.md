@@ -38,13 +38,13 @@
 
 <img src="http://img.shields.io/badge/-gitgub-black?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-finalcut-black?style=for-the-badge&logo=unity" style="margin:5px" /><img src="http://img.shields.io/badge/-notion-black?style=for-the-badge&logo=notion" style="margin:25x" /><img src="http://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=red" style="margin:5px" />
 
-## - 💬 Ask me about
+## 💬 Ask me about
 
 -  Programming basics
 -  Design(UI/UX), machine learning app-making and deployment.
 -  I love making new friends, so feel free to just chat!
 
-## - 📫 How to reach me
+## 📫 How to reach me
 
 You can e-mail me directly, and you can use either English or Korean with me :)
 > Email: <a href="mailto:sanz1475@yonsei.ac.kr">sanz1475@yonsei.ac.kr</a>

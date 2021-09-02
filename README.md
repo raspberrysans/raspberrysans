@@ -18,10 +18,10 @@
   
 <b>🌱 I’m currently working on:</b>
   
-1. 4th year 2nd semester classes (<b>Compiler Design, Software Capstone Design</b>, 
+> 1. 4th year 2nd semester classes (<b>Compiler Design, Software Capstone Design</b>, 
   Applied Data Analysis using R, Intro to Human Rights & Policies)
-2. Creating my portfolio website
-3. Making a conversational AI app 인격 복제 챗봇 
+> 2. Creating my portfolio website
+> 3. Making a conversational AI app 인격 복제 챗봇 
 
 </div>
 

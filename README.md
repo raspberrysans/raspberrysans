@@ -36,7 +36,7 @@
 
 ### Tools:
 
-<img src="http://img.shields.io/badge/-gitgub-black?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-finalcut-black?style=for-the-badge&logo=unity" style="margin:5px" /><img src="http://img.shields.io/badge/-notion-black?style=for-the-badge&logo=notion" style="margin:25x" /><img src="http://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=red" style="margin:5px" />
+<img src="http://img.shields.io/badge/-github-black?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-finalcut-black?style=for-the-badge&logo=unity" style="margin:5px" /><img src="http://img.shields.io/badge/-notion-black?style=for-the-badge&logo=notion" style="margin:25x" /><img src="http://img.shields.io/badge/-react-black?style=for-the-badge&logo=react&logoColor=red" style="margin:5px" />
 
 ## 💬 Ask me about
 

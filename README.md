@@ -12,7 +12,7 @@
 > 2. Data Science Projects(Machine learning)
 > 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
 > 4. New languages! (Computer languages and spoken languages. Both learning and teaching)
-<img width="50%" height="60%" display="flex-wrap" align="left" src="https://github-readme-stats.vercel.app/api?username=sanz1475&show_icons=true&hide_border=true" />
+<img width="50%" height="60%" display="flex-wrap" align="left" src="https://github-readme-stats.vercel.app/api?username=raspberrysans&show_icons=true&hide_border=true" />
 
 <div align="left">
   

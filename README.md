@@ -1,6 +1,6 @@
 <img align="left" alt="img" src="http://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif" width="50%" height="auto" />
 <div align="left">
-<h1> 안녕하세요! I am Sans(산스) Bhatia </h1>
+<h1> 안녕하세요! I am Sans(산스) </h1>
 </div>
 
 <b>👋 Welcome to my GitHub profile.</b>

@@ -5,7 +5,7 @@
 
 <b>👋 Welcome to my GitHub profile.</b>
 > I am an international student studying in Seoul, South Korea - currently finishing my Bachelor's in Computer Science at Yonsei University (연세대학교)
-> I expect to graduate in 2022 February and I'm preparing for the job market in Korea.
+> I expect to graduate in 2022 February. Check out my portfolio: <a href="https://raspberrysans.github.io/"> HERE </a>
 
 <b>👀 I’m interested in:</b>
 > 1. Web Development Projects (mostly front-end - UI/UX)

@@ -10,7 +10,6 @@
 <b>👀 I’m interested in:</b>
 > 1. Web Development Projects (mostly front-end - UI/UX)
 > 2. Data Science Projects (Machine learning)
-> 3. Making YouTube videos. I have a <a href="https://www.youtube.com/channel/UC11rT-5FwqUB64nGWe3DuiQ">YouTube Channel: raspberrysans</a>
 <img width="50%" height="60%" display="flex-wrap" align="left" src="https://github-readme-stats.vercel.app/api?username=raspberrysans&show_icons=true&hide_border=true" />
 
 <div align="left">
@@ -18,8 +17,7 @@
 <b>🌱 I’m currently working on:</b>
   
 > 1. Front-end developer, Paprika Data Lab Inc.
-> 2. Full stack app dev, RebuilderAI
-> 3. 4th year 2nd semester classes (<b>Compiler Design, Software Capstone Design</b>, 
+> 2. 4th year 2nd semester classes (<b>Compiler Design, Software Capstone Design</b>, 
   Applied Data Analysis using R, Intro to Human Rights & Policies)
 
 </div>
@@ -39,8 +37,8 @@
 
 ## 💬 Ask me about
 
--  Programming basics
--  Design(UI/UX), machine learning app-making and deployment.
+-  Life in South Korea as an international student
+-  Front-end development, Design(UI/UX)
 -  I love making new friends, so feel free to just chat!
 
 ## 📫 How to reach me

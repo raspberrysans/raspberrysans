@@ -4,12 +4,13 @@
 </div>
 
 ### 👋 Welcome to my GitHub profile.
-> I am an international student studying in Seoul, South Korea - currently finishing my Bachelor's in Computer Science at Yonsei University (연세대학교)
-> I expect to graduate in 2022 February. Check out my portfolio: <a href="https://raspberrysans.github.io/"> HERE </a>
+> I came to Seoul, South Korea as an international student in 2017 and I graduated with a Bachelor's in Computer Science from Yonsei University in February 2022 (연세대학교). By day, I’m a front-end developer, and by night I write, edit, and create. <br />
+> Check out my website <a href="https://www.sansverse.co/"> HERE </a>
 
 ### 👀 I’m interested in:
-> 1. Web Development Projects (mostly front-end - UI/UX)
-> 2. Data Science Projects (Machine learning)
+> 1. Web/App Development (mostly front-end)
+> 2. Creative Design (UI/UX)
+> 3. Data Science Projects (Machine learning)
 <img width="50%" height="60%" display="flex-wrap" align="left" src="https://github-readme-stats.vercel.app/api?username=raspberrysans&show_icons=true&hide_border=true" />
 
 <div align="left">
@@ -17,8 +18,7 @@
 <b>🌱 I’m currently working on:</b>
   
 > 1. Front-end developer, Paprika Data Lab Inc.
-> 2. 4th year 2nd semester classes (<b>Compiler Design, Software Capstone Design</b>, 
-  Applied Data Analysis using R, Intro to Human Rights & Policies)
+> 2. I'm into a variety of things such as: video editing, creative writing, productivity hacks, vlogging, reading books about manifestation.
 
 </div>
 
@@ -31,8 +31,9 @@
 
 ## 💬 Ask me about
 
--  Life in South Korea as an international student
+-  Life in South Korea as a (former) international student
 -  Front-end development, Design(UI/UX)
+-  Manifestation & Law of attraction
 -  I love making new friends, so feel free to just chat!
 
 ## 📫 How to reach me

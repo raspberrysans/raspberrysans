@@ -17,7 +17,7 @@
   
 <b>🌱 I’m currently working on:</b>
   
-> 1. Front-end developer, Paprika Data Lab Inc.
+> 1. Front-end developer, Deep BlueDot Inc.
 > 2. I'm into a variety of things such as: video editing, creative writing, productivity hacks, vlogging, reading books about manifestation.
 
 </div>
@@ -33,7 +33,7 @@
 
 -  Life in South Korea as a (former) international student
 -  Front-end development, Design(UI/UX)
--  Manifestation & Law of attraction
+-  Former Paprikan (worked at Paprika Data Lab Inc.
 -  I love making new friends, so feel free to just chat!
 
 ## 📫 How to reach me

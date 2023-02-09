@@ -5,26 +5,20 @@
 
 ### 👋 Welcome to my GitHub profile!
 > I came to Seoul, South Korea as an international student in 2017 under the Global Korean Scholarship and I graduated with a Bachelor's in Computer Science from Yonsei University in February 2022 (연세대학교). By day, I’m a front-end developer, and by night I write, edit, and create. <br />
-> Check out my website <a href="https://www.sansverse.co/"> HERE </a>
+> Check out my website <a href="https://www.sansverse.co/"> here </a>
 
 ### 👀 I’m interested in:
 > 1. Web & app development
 > 2. Creative design (UI/UX)
-> 3. Machine learning, computer vision, NLP
+> 3. ML, CV, NLP (AI)
 > 4. Content creation
 > 
 <img width="50%" height="70%" display="flex-wrap" align="right" src="https://github-readme-stats.vercel.app/api?username=raspberrysans&show_icons=true&hide_border=true&theme=dark" />
 
-## 🧠 I Know / Use
-
-### Programming Languages:
-
-<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" /><img src="http://img.shields.io/badge/-typescript-black?style=for-the-badge&logo=typescript" style="margin:5px" />
-
 
 ## 💬 Talk to me about:
 
--  Life in South Korea as a resident on an f-2-7 visa
+-  Life in South Korea as a dev
 -  Life as a (former) Yonsei student
 -  Front-end development, design (UI/UX)
 -  Startup ideas

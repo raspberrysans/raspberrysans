@@ -13,11 +13,9 @@
 > 3. ML, CV, NLP (AI)
 > 4. Content creation
 > 
-<img width="50%" height="70%" display="flex-wrap" align="right" src="https://github-readme-stats.vercel.app/api?username=raspberrysans&show_icons=true&hide_border=true&theme=dark" />
 
 
 ## 💬 Talk to me about:
-
 -  Life in South Korea as a dev
 -  Life as a (former) Yonsei student
 -  Front-end development, design (UI/UX)

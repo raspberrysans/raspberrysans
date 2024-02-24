@@ -1,21 +1,20 @@
-![Hi, I’m Sans](https://github.com/raspberrysans/raspberrysans/assets/88702269/6a5deb47-428b-40c7-9603-3d3dc2c9dad8)
+![restoration through self-expression (3)](https://github.com/raspberrysans/raspberrysans/assets/88702269/10c6ef7d-2331-4c89-8a85-dbae40f3dcf4)
 
 
 <h1>More about me </h1>
 
-> 🖥️ Software Developer
+> 🖥️ SWE
 
 > 📍 Seoul, South Korea
 
 > 🇮🇳 Originally from Mumbai, India
 
-> 🌐 Check out my blog + website <a href="https://www.sansverse.co/"> here </a>
+> 🌐 Check out my website <a href="https://www.sansverse.co/"> here </a>
 
 ### 👀 I’m interested in:
 > 1. Web Development
 > 2. Creative Design (UI/UX)
-> 3. ML, CV, NLP (AI)
-> 4. Content Creation
+> 3. Content Creation
 
 ## 📫 How to reach me
 > [LinkedIn](https://www.linkedin.com/in/sans-bhatia/)
